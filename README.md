@@ -5,7 +5,8 @@
 <br>
 3,Start server:
 npx json-server --watch ./data/db.json
-endpoint: http://localhost:3000/trips
+<br>
+Endpoint: http://localhost:3000/trips
 <br>
 4,Npm run start->local server
 
