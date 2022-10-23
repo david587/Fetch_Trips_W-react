@@ -1,9 +1,12 @@
 # Fetching Data from Json local server
-1,npx create-react-app tripago
+1,npx create-react-app tripago 
+<br>
 2,installl json server->npm install -g json-server-->installs globally
+<br>
 3,Start server:
 npx json-server --watch ./data/db.json
 endpoint: http://localhost:3000/trips
+<br>
 4,Npm run start->local server
 
 # Getting Started with Create React App
